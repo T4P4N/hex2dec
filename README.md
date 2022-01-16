@@ -8,7 +8,8 @@
 
 ### Try it out now: t4p4n.github.io/hex2dec/
 
-### Todos:
-
-- [] Made into PWA
-- [] Add favicons Title Meta tags etc.
+### Todo:
+```
+- [X] Made into PWA 
+- [X] Add favicons Title Meta tags etc.
+```
